@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using Microsoft.EntityFrameworkCore;
 using SistemaVentas.Entity;
 
-namespace SistemaVentas.DAL;
+namespace SistemaVentas.DAL.BaseContext;
 
 public partial class SistemaVentasContext : DbContext
 {

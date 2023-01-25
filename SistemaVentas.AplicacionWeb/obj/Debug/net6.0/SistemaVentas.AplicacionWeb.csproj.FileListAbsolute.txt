@@ -295,3 +295,7 @@ C:\Users\luis_\OneDrive\Documentos\C#\SolucionSistemaVentas\SistemaVentas.Aplica
 C:\Users\luis_\OneDrive\Documentos\C#\SolucionSistemaVentas\SistemaVentas.AplicacionWeb\obj\Debug\net6.0\SistemaVentas.AplicacionWeb.pdb
 C:\Users\luis_\OneDrive\Documentos\C#\SolucionSistemaVentas\SistemaVentas.AplicacionWeb\obj\Debug\net6.0\SistemaVentas.AplicacionWeb.genruntimeconfig.cache
 C:\Users\luis_\OneDrive\Documentos\C#\SolucionSistemaVentas\SistemaVentas.AplicacionWeb\obj\Debug\net6.0\ref\SistemaVentas.AplicacionWeb.dll
+C:\Users\luis_\OneDrive\Documentos\C#\SolucionSistemaVentas\SistemaVentas.AplicacionWeb\bin\Debug\net6.0\Firebase.Auth.dll
+C:\Users\luis_\OneDrive\Documentos\C#\SolucionSistemaVentas\SistemaVentas.AplicacionWeb\bin\Debug\net6.0\Firebase.Storage.dll
+C:\Users\luis_\OneDrive\Documentos\C#\SolucionSistemaVentas\SistemaVentas.AplicacionWeb\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\luis_\OneDrive\Documentos\C#\SolucionSistemaVentas\SistemaVentas.AplicacionWeb\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
